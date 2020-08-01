@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there, Naeem here 👋
+
+- 🔭 I’m currently working on Kubernetes
+- 🌱 I’m currently learning Java Spring Boot & Javascript
+- 💬 Ask me about machine learning or business intelligence
+- 📫 How to reach me: naeemhussien[a]gmail.com
+
+<!-- <a href="https://github.com/naeem-bebit/naeem-bebit">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=naeem-bebit&count_private=true&show_icons=true&theme=dark" />
+</a> -->
+<a href="https://github.com/naeem-bebit/naeem-bebit">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeem-bebit&theme=tokyonight&layout=compact&hide=javascript,html,css" />
+</a>
+
 
 <!--
 **naeem-bebit/naeem-bebit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
