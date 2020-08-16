@@ -9,7 +9,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=naeem-bebit&count_private=true&show_icons=true&theme=dark" />
 </a> -->
 <a href="https://github.com/naeem-bebit/naeem-bebit">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeem-bebit&theme=tokyonight&layout=compact&hide=javascript,html,css" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeem-bebit&theme=tokyonight&layout=compact" />
 </a>
 
 
