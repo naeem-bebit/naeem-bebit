@@ -1,7 +1,7 @@
 ### Hi there, Naeem here 👋
 
-- 🔭 I’m currently working on Kubernetes
-- 🌱 I’m currently learning Java Spring Boot & Javascript
+- 🔭 I’m currently working on Computer Vision(CV) with Tensofflow
+- 🌱 I’m currently learning FastAPI
 - 💬 Ask me about machine learning or business intelligence
 - 📫 How to reach me: naeemhussien[a]gmail.com
 
