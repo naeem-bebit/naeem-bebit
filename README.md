@@ -1,6 +1,6 @@
 ### Hi there, Naeem here 👋
 
-- 🔭 I’m currently working on Computer Vision(CV) with Tensofflow
+- 🔭 I’m currently working on Computer Vision(CV) with Tensorflow, Pytorch
 - 🌱 I’m currently learning FastAPI
 - 💬 Ask me about machine learning or business intelligence
 - 📫 How to reach me: naeemhussien[a]gmail.com
