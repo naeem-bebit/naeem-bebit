@@ -24,14 +24,14 @@ I'm Data scientist
 ### Socials
 <p align="left"> <a href="https://www.github.com/naeem-bebit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/2194104/naeem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Github Stats
+<!--### Github Stats
 <!-- <a href="https://github.com/naeem-bebit/naeem-bebit">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=naeem-bebit&count_private=true&show_icons=true&theme=dark" />
 </a> -->
 <a href="https://github.com/naeem-bebit/naeem-bebit">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeem-bebit&theme=tokyonight&layout=compact" />
 </a>
-
+-->
 
 
 <!--
