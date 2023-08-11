@@ -31,7 +31,6 @@ I'm Data scientist
 <a href="https://github.com/naeem-bebit/naeem-bebit">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeem-bebit&theme=tokyonight&layout=compact" />
 </a>
--->
 
 
 <!--
